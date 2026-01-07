@@ -1,0 +1,5 @@
+
+{
+  "name": "VitalsRisk Predictor",
+  "description": "A sophisticated disease risk assessment tool using Logistic Regression to analyze Age, Blood Pressure, and Glucose levels with AI-driven clinical insights."
+}
