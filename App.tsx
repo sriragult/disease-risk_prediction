@@ -150,7 +150,7 @@ const App: React.FC = () => {
                 <div className="mt-6 pt-6 border-t border-slate-800 grid grid-cols-2 gap-4">
                   <div>
                     <div className="text-[9px] font-black uppercase text-slate-500 mb-1">Threshold</div>
-                    <div className="text-sm font-bold">P(Y) > 0.5</div>
+                      <div className="text-sm font-bold">P(Y) {">"} 0.5</div>
                   </div>
                   <div>
                     <div className="text-[9px] font-black uppercase text-slate-500 mb-1">Loss Func</div>
